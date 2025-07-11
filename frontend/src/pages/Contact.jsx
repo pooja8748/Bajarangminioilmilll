@@ -36,7 +36,7 @@ const Contact = () => {
               </svg>
               <div>
                 <p className="font-semibold">Meet Ramani</p>
-                <p className="text-gray-600">9979943944</p>
+                <p className="text-gray-600">9979843944</p>
               </div>
             </div>
           </div>

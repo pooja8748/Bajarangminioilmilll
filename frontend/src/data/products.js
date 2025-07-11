@@ -71,7 +71,7 @@ export const productsData = [
   },
   {
     id: 5,
-    name_gujarati: 'એરસીડ્યુ (દિવેલ)',
+    name_gujarati: 'એરંડિયું (દિવેલ)',
     name_english: 'Groundnut Cake Oil (Filtered)',
     slug: 'groundnut-cake-oil',
     description: 'Filtered Groundnut Cake Oil with rich taste and aroma. Economical choice for daily cooking needs.',

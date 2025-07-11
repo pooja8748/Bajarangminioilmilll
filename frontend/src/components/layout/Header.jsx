@@ -37,10 +37,11 @@ const Header = () => {
         
         {/* Mobile Navigation */}
         <nav className="md:hidden mt-3 pt-3 border-t border-primary-500">
-          <div className="flex justify-center space-x-6 text-sm">
+          <div className="flex justify-center space-x-4 text-sm">
             <Link to="/" className="hover:text-primary-200">Home</Link>
             <Link to="/products" className="hover:text-primary-200">Products</Link>
             <Link to="/about" className="hover:text-primary-200">About</Link>
+            <Link to="/gallery" className="hover:text-primary-200">Gallery</Link>
             <Link to="/contact" className="hover:text-primary-200">Contact</Link>
           </div>
         </nav>
